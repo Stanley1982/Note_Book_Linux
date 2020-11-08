@@ -26,4 +26,7 @@ nvim ~/.config/nvim/init.vim
 查找文件
 --------------------
 
+
 sudo find / -name dict.txt
+
+
